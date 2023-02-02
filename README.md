@@ -26,6 +26,5 @@ I'm a Full-Stack Software Engineer with additional interest and experience in De
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=stephan-chiorean&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=stephan-chiorean&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=stephan-chiorean&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
