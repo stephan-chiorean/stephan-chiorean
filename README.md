@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 # 💫 About Me:
 I'm a Full-Stack Software Engineer with additional interest and experience in DevOps and Cloud Computing<br>I love building cool things and I never stop having fun learning<br>I have worked with some amazing technologies and even better engineers<br>Life's greatest satisfactions: centering a div and making people smile<br>When I'm not coding I am outside enjoying nature, walking my dog, or watching a movie. I LOVE movies.<br> 
 
+http://stephantc.dev
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stephan.tc) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stephan-chiorean) 
